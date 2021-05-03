@@ -15,3 +15,11 @@
 	
 <img src="/assets/Images/toDoScratched.jpeg" alt="toDoScratched"
 	title="toDoScratched" width="300" height="600" />
+	
+<p>If user made a mistake and want to edit some to do item, only need to hold on a bit the task you want to edit and write on the field the edited task</p>
+
+<img src="/assets/Images/toDoEdit.jpeg" alt="toDoEdit"
+	title="toDoEdit" width="300" height="600" />
+	
+<img src="/assets/Images/toDoEdited.jpeg" alt="toDoEdited"
+	title="toDoEdited" width="300" height="600" />
