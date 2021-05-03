@@ -2,7 +2,7 @@
 <h1>English</h1>
 <h2>A basic app to do list made with react native</h2> 
 
-<p>When acess the app, the image will look like down bellow to you add your owns to do:</p>
+<p>When acess the app, will look like bellow image, to you add your owns to do:</p>
 
 <img src="/assets/Images/toDoEmpty.jpeg" alt="toDoEmpty"
 	title="toDoEmpty" width="300" height="600" />
@@ -24,10 +24,13 @@
 <img src="/assets/Images/toDoEdited.jpeg" alt="toDoEdited"
 	title="toDoEdited" width="300" height="600" />
 	
+	
+	
+	
 <h1>Português</h1>
 <h2>Um aplicativo básico feito com react native</h2> 
 
-<p>Quando acessa o aplicativo, a image vai se aparecer como a imagem abaixo, para você adicionar as suas próprias tarefas na lista:</p>
+<p>Quando acessa o aplicativo, irá se parecer com a imagem abaixo, para você adicionar as suas próprias tarefas na lista:</p>
 
 <img src="/assets/Images/toDoEmpty.jpeg" alt="toDoEmpty"
 	title="toDoEmpty" width="300" height="600" />
