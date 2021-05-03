@@ -9,7 +9,7 @@
 
 <p>The field on the top will be used to add your todos and after press on "add", after the to do is added will show up like the image bellow, 
 	and if the user finished and click on the task, will be scratched:</p>
-	
+
 <img src="/assets/Images/toDoAdded.jpeg" alt="toDoAdded"
 	title="toDoAdded" width="300" height="600" />
 	
